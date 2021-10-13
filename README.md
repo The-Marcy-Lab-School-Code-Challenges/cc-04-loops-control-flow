@@ -10,7 +10,7 @@
 
 ## Code Problems
 
-1. Write a function named `sumOfFourAndSix` that returns the sum of all the multiples of 3 **and** 5 from 1 to 1000, including 1 and 1000.
+1. Write a function named `sumOfFourAndSix` that returns the sum of all the multiples of 4 **and** 6 from 1 to 1000, including 1 and 1000.
 ```
 sumOfFourAndSix() //returns 41832
 ```
