@@ -1,17 +1,15 @@
 //1
-function sumOfThreeAndFive(){
+function sumOfFourAndSix(){
   
 }
 
-function greaterNum(){
-  
-}
-
+//2
 function oddAndEvenInFifteen(){
   
 }
 
-function sortThreeNums(){
+//3
+function assignGrade(){
   
 }
 
