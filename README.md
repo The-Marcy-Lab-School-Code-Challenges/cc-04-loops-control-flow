@@ -15,7 +15,7 @@
 sumOfFourAndSix() //returns 41832
 ```
 
-2. Write a function named `oddAndEvenInFifteen` that will console.log if a number is odd or even between 0 and 15. 
+2. Write a function named `oddAndEvenToN` that takes in an integer argument and will console.log if a number is odd or even between 0 and the given arguemnt. 
 ```
 oddAndEvenInFifteen()
 // first five console.logs:
